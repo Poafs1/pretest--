@@ -1,0 +1,10 @@
+{
+  "name": "q3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "node-fetch": "^2.6.1"
+  }
+}
